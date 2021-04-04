@@ -2,7 +2,7 @@
 
 ![Dashboard Image]()
 
-> [Team Profile Generator]()
+> [Team Profile Generator](https://github.com/jamtrip7/team-profile-generator/blob/main/screenshot/screenshot.jpg)
 
 ---
 
