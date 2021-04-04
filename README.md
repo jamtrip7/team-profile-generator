@@ -1,8 +1,8 @@
 # Team-Profile-Generator
 
-![Dashboard Image]()
+![Dashboard Image](https://github.com/jamtrip7/team-profile-generator/blob/main/screenshot/screenshot.jpg)
 
-> [Team Profile Generator](https://github.com/jamtrip7/team-profile-generator/blob/main/screenshot/screenshot.jpg)
+> [Team Profile Generator]()
 
 ---
 
